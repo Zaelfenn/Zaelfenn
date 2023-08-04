@@ -1,5 +1,4 @@
-- 👋 Hi, my name is Zaelfenn. I am currently a student of both Hardware and Software engineering, and will be uploading my projects from classes
-- and personal stuffs here. 
+- 👋 Hi, my name is Zaelfenn. I am currently a student of both Hardware and Software engineering, and will be uploading my projects from classes and personal stuffs here. 
 - 👀 I am interested in a variety of things, such as gaming, programming, makeup, and cooking. 
 - 🌱 I’m currently learning C and C++, and hope to become fluent in a great deal more languages!
 - 💞️ I’m looking to collaborate on ...
